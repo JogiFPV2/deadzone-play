@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "kenney-survival",
+      "name": "Survival Kit",
+      "author": "Kenney (www.kenney.nl)",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://kenney.nl/assets/survival-kit",
+      "palette": {
+        "material": "kenney-survival/palette",
+        "file": "kenney-survival/palette.ktx2",
+        "bytes": 13605,
+        "sourceBytes": 7440
+      }
+    }
+  ],
+  "assets": [
+    {
+      "id": "kenney-survival/barrel",
+      "pack": "kenney-survival",
+      "sourceBytes": 34256,
+      "lods": [
+        {
+          "file": "kenney-survival/barrel.glb",
+          "distance": 0,
+          "bytes": 5784,
+          "triangles": 412
+        },
+        {
+          "file": "kenney-survival/barrel.lod1.glb",
+          "distance": 30,
+          "bytes": 4260,
+          "triangles": 206
+        },
+        {
+          "file": "kenney-survival/barrel.lod2.glb",
+          "distance": 60,
+          "bytes": 3560,
+          "triangles": 132
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/box-large",
+      "pack": "kenney-survival",
+      "sourceBytes": 14072,
+      "lods": [
+        {
+          "file": "kenney-survival/box-large.glb",
+          "distance": 0,
+          "bytes": 3880,
+          "triangles": 124
+        },
+        {
+          "file": "kenney-survival/box-large.lod1.glb",
+          "distance": 30,
+          "bytes": 3220,
+          "triangles": 62
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/campfire-pit",
+      "pack": "kenney-survival",
+      "sourceBytes": 26468,
+      "lods": [
+        {
+          "file": "kenney-survival/campfire-pit.glb",
+          "distance": 0,
+          "bytes": 8592,
+          "triangles": 305
+        },
+        {
+          "file": "kenney-survival/campfire-pit.lod1.glb",
+          "distance": 30,
+          "bytes": 8136,
+          "triangles": 256
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/chest",
+      "pack": "kenney-survival",
+      "sourceBytes": 35172,
+      "lods": [
+        {
+          "file": "kenney-survival/chest.glb",
+          "distance": 0,
+          "bytes": 10608,
+          "triangles": 322
+        },
+        {
+          "file": "kenney-survival/chest.lod1.glb",
+          "distance": 30,
+          "bytes": 9008,
+          "triangles": 182
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/fence",
+      "pack": "kenney-survival",
+      "sourceBytes": 6428,
+      "lods": [
+        {
+          "file": "kenney-survival/fence.glb",
+          "distance": 0,
+          "bytes": 3104,
+          "triangles": 48
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/rock-a",
+      "pack": "kenney-survival",
+      "sourceBytes": 10812,
+      "lods": [
+        {
+          "file": "kenney-survival/rock-a.glb",
+          "distance": 0,
+          "bytes": 4140,
+          "triangles": 104
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/tent",
+      "pack": "kenney-survival",
+      "sourceBytes": 14020,
+      "lods": [
+        {
+          "file": "kenney-survival/tent.glb",
+          "distance": 0,
+          "bytes": 4508,
+          "triangles": 124
+        },
+        {
+          "file": "kenney-survival/tent.lod1.glb",
+          "distance": 30,
+          "bytes": 4216,
+          "triangles": 92
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/tree",
+      "pack": "kenney-survival",
+      "sourceBytes": 22184,
+      "lods": [
+        {
+          "file": "kenney-survival/tree.glb",
+          "distance": 0,
+          "bytes": 5300,
+          "triangles": 226
+        },
+        {
+          "file": "kenney-survival/tree.lod1.glb",
+          "distance": 30,
+          "bytes": 3732,
+          "triangles": 112
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/tree-tall",
+      "pack": "kenney-survival",
+      "sourceBytes": 24672,
+      "lods": [
+        {
+          "file": "kenney-survival/tree-tall.glb",
+          "distance": 0,
+          "bytes": 5652,
+          "triangles": 254
+        },
+        {
+          "file": "kenney-survival/tree-tall.lod1.glb",
+          "distance": 30,
+          "bytes": 3928,
+          "triangles": 127
+        },
+        {
+          "file": "kenney-survival/tree-tall.lod2.glb",
+          "distance": 60,
+          "bytes": 3640,
+          "triangles": 105
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/workbench-anvil",
+      "pack": "kenney-survival",
+      "sourceBytes": 30084,
+      "lods": [
+        {
+          "file": "kenney-survival/workbench-anvil.glb",
+          "distance": 0,
+          "bytes": 8728,
+          "triangles": 298
+        },
+        {
+          "file": "kenney-survival/workbench-anvil.lod1.glb",
+          "distance": 30,
+          "bytes": 7436,
+          "triangles": 184
+        }
+      ]
+    }
+  ]
+}
