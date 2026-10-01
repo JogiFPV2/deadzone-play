@@ -1,0 +1,13 @@
+{
+  "base:bandage": "bandage.png",
+  "base:baseball-bat": "baseball-bat.png",
+  "base:canned-beans": "canned-beans.png",
+  "base:crowbar": "crowbar.png",
+  "base:dirty-water-bottle": "dirty-water-bottle.png",
+  "base:hammer": "hammer.png",
+  "base:kitchen-knife": "kitchen-knife.png",
+  "base:nailed-bat": "nailed-bat.png",
+  "base:pistol": "pistol.png",
+  "base:sterilized-bandage": "sterilized-bandage.png",
+  "base:water-bottle": "water-bottle.png"
+}
