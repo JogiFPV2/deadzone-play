@@ -1,1 +1,0 @@
-import{t as e}from"./preload-helper-uBIymjUX.js";async function t(){let{BASE_PACK_DIR:t,baseFiles:n}=await e(async()=>{let{BASE_PACK_DIR:e,baseFiles:t}=await import(`./base-pack-D3d-Q_c9.js`);return{BASE_PACK_DIR:e,baseFiles:t}},[],import.meta.url);return{packs:[{dir:t,files:n}]}}export{t as loadSimContent};
