@@ -18,6 +18,7 @@
   "base:canned-beans": "canned-beans.png",
   "base:compact-pistol": "compact-pistol.png",
   "base:crowbar": "crowbar.png",
+  "base:deer-hide": "deer-hide.png",
   "base:dirty-water-bottle": "dirty-water-bottle.png",
   "base:double-barrel-shotgun": "double-barrel-shotgun.png",
   "base:duct-tape": "duct-tape.png",
@@ -32,6 +33,9 @@
   "base:pump-shotgun": "pump-shotgun.png",
   "base:revolver": "revolver.png",
   "base:shotgun-shell": "shotgun-shell.png",
+  "base:small-game-meat": "small-game-meat.png",
   "base:sterilized-bandage": "sterilized-bandage.png",
+  "base:venison": "venison.png",
+  "base:venison-steak": "venison-steak.png",
   "base:water-bottle": "water-bottle.png"
 }
