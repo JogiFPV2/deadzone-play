@@ -2,6 +2,14 @@
   "version": 1,
   "packs": [
     {
+      "id": "kenney-furniture",
+      "name": "Furniture Kit",
+      "author": "Kenney (www.kenney.nl)",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://kenney.nl/assets/furniture-kit"
+    },
+    {
       "id": "kenney-survival",
       "name": "Survival Kit",
       "author": "Kenney (www.kenney.nl)",
@@ -14,9 +22,147 @@
         "bytes": 13605,
         "sourceBytes": 7440
       }
+    },
+    {
+      "id": "quaternius-characters",
+      "name": "Animated characters (Casual, Worker, Hoodie)",
+      "author": "Quaternius (quaternius.com), via Poly Pizza",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://poly.pizza/u/Quaternius"
     }
   ],
   "assets": [
+    {
+      "id": "kenney-furniture/bookcase-closed",
+      "pack": "kenney-furniture",
+      "sourceBytes": 23132,
+      "lods": [
+        {
+          "file": "kenney-furniture/bookcase-closed.glb",
+          "distance": 0,
+          "bytes": 9472,
+          "triangles": 372
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/bookcase-closed-doors",
+      "pack": "kenney-furniture",
+      "sourceBytes": 22644,
+      "lods": [
+        {
+          "file": "kenney-furniture/bookcase-closed-doors.glb",
+          "distance": 0,
+          "bytes": 14540,
+          "triangles": 296
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/bookcase-closed-wide",
+      "pack": "kenney-furniture",
+      "sourceBytes": 23140,
+      "lods": [
+        {
+          "file": "kenney-furniture/bookcase-closed-wide.glb",
+          "distance": 0,
+          "bytes": 9696,
+          "triangles": 372
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/bookcase-open",
+      "pack": "kenney-furniture",
+      "sourceBytes": 18020,
+      "lods": [
+        {
+          "file": "kenney-furniture/bookcase-open.glb",
+          "distance": 0,
+          "bytes": 7540,
+          "triangles": 320
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/cabinet-bed-drawer",
+      "pack": "kenney-furniture",
+      "sourceBytes": 16088,
+      "lods": [
+        {
+          "file": "kenney-furniture/cabinet-bed-drawer.glb",
+          "distance": 0,
+          "bytes": 13816,
+          "triangles": 182
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/cardboard-box-closed",
+      "pack": "kenney-furniture",
+      "sourceBytes": 5400,
+      "lods": [
+        {
+          "file": "kenney-furniture/cardboard-box-closed.glb",
+          "distance": 0,
+          "bytes": 5132,
+          "triangles": 60
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/fridge",
+      "pack": "kenney-furniture",
+      "sourceBytes": 20116,
+      "lods": [
+        {
+          "file": "kenney-furniture/fridge.glb",
+          "distance": 0,
+          "bytes": 16336,
+          "triangles": 250
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/fridge-small",
+      "pack": "kenney-furniture",
+      "sourceBytes": 12988,
+      "lods": [
+        {
+          "file": "kenney-furniture/fridge-small.glb",
+          "distance": 0,
+          "bytes": 11524,
+          "triangles": 152
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/kitchen-cabinet",
+      "pack": "kenney-furniture",
+      "sourceBytes": 10444,
+      "lods": [
+        {
+          "file": "kenney-furniture/kitchen-cabinet.glb",
+          "distance": 0,
+          "bytes": 10776,
+          "triangles": 114
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/kitchen-cabinet-drawer",
+      "pack": "kenney-furniture",
+      "sourceBytes": 15384,
+      "lods": [
+        {
+          "file": "kenney-furniture/kitchen-cabinet-drawer.glb",
+          "distance": 0,
+          "bytes": 15828,
+          "triangles": 174
+        }
+      ]
+    },
     {
       "id": "kenney-survival/barrel",
       "pack": "kenney-survival",
@@ -39,6 +185,25 @@
           "distance": 60,
           "bytes": 3560,
           "triangles": 132
+        }
+      ]
+    },
+    {
+      "id": "kenney-survival/box",
+      "pack": "kenney-survival",
+      "sourceBytes": 14056,
+      "lods": [
+        {
+          "file": "kenney-survival/box.glb",
+          "distance": 0,
+          "bytes": 3936,
+          "triangles": 124
+        },
+        {
+          "file": "kenney-survival/box.lod1.glb",
+          "distance": 30,
+          "bytes": 3420,
+          "triangles": 76
         }
       ]
     },
@@ -204,6 +369,45 @@
           "distance": 30,
           "bytes": 7436,
           "triangles": 184
+        }
+      ]
+    },
+    {
+      "id": "quaternius-characters/casual",
+      "pack": "quaternius-characters",
+      "sourceBytes": 1430660,
+      "lods": [
+        {
+          "file": "quaternius-characters/casual.glb",
+          "distance": 0,
+          "bytes": 549180,
+          "triangles": 5776
+        }
+      ]
+    },
+    {
+      "id": "quaternius-characters/hoodie",
+      "pack": "quaternius-characters",
+      "sourceBytes": 1456760,
+      "lods": [
+        {
+          "file": "quaternius-characters/hoodie.glb",
+          "distance": 0,
+          "bytes": 559908,
+          "triangles": 6206
+        }
+      ]
+    },
+    {
+      "id": "quaternius-characters/worker",
+      "pack": "quaternius-characters",
+      "sourceBytes": 1344928,
+      "lods": [
+        {
+          "file": "quaternius-characters/worker.glb",
+          "distance": 0,
+          "bytes": 545836,
+          "triangles": 5240
         }
       ]
     }
