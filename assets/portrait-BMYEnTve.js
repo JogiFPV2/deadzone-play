@@ -1,0 +1,1 @@
+import{n as e}from"./character-store-M51p-mcs.js";function t(t){return t?{skin:t.skin||e.skin,hair:t.parts[0]?.colors.primary??e.hair,shirt:t.parts[1]?.colors.primary??e.shirt}:e}export{t};
