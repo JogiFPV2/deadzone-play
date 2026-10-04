@@ -1,4 +1,4 @@
-import{h as e,n as t}from"./overlay-stage-yz2ITXas.js";function n(n){let r=document.createElement(`div`);r.className=n.danger?`dzo-confirm dzo-confirm--danger`:`dzo-confirm`,r.setAttribute(`role`,`alertdialog`),r.setAttribute(`aria-label`,n.title),n.host.appendChild(r);let i=n.focusYes??!1,a=!1,o=e=>{a||(a=!0,r.remove(),n.onAnswer(e))},s=()=>{r.innerHTML=`<div class="dzo-panel dzo-confirm-box">
+import{h as e,n as t}from"./overlay-stage-G0UN-wuE.js";function n(n){let r=document.createElement(`div`);r.className=n.danger?`dzo-confirm dzo-confirm--danger`:`dzo-confirm`,r.setAttribute(`role`,`alertdialog`),r.setAttribute(`aria-label`,n.title),n.host.appendChild(r);let i=n.focusYes??!1,a=!1,o=e=>{a||(a=!0,r.remove(),n.onAnswer(e))},s=()=>{r.innerHTML=`<div class="dzo-panel dzo-confirm-box">
 <div class="dzo-confirm-icon">${e(n.icon??`warning`,n.danger?32:34)}</div>
 <div class="dzo-confirm-title">${n.title}</div>
 <div class="dzo-confirm-body">${n.body}</div>
