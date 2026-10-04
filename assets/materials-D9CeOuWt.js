@@ -1,0 +1,1 @@
+import{Ot as e}from"./three.core-DfOD67Pl.js";function t(t){return new e({color:t,roughness:.92,metalness:0,flatShading:!0})}export{t};

@@ -1,0 +1,1 @@
+var e=1024,t=0,n=(e,t)=>t*32+e;export{t as n,n as r,e as t};
