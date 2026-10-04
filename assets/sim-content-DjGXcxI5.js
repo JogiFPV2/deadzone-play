@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./base-pack-g4Qpmc_b.js","./pl-Dn14Whre.js","./base-0e3oR_t5.js"])))=>i.map(i=>d[i]);
-import{t as e}from"./preload-helper-uBIymjUX.js";async function t(){let{BASE_PACK_DIR:t,baseFiles:n}=await e(async()=>{let{BASE_PACK_DIR:e,baseFiles:t}=await import(`./base-pack-g4Qpmc_b.js`);return{BASE_PACK_DIR:e,baseFiles:t}},__vite__mapDeps([0,1,2]),import.meta.url);return{packs:[{dir:t,files:n}]}}export{t as loadSimContent};
