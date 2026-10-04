@@ -2,6 +2,14 @@
   "version": 1,
   "packs": [
     {
+      "id": "cdmir-rabbit",
+      "name": "Rabbit (Kelgar)",
+      "author": "Čestmír Dammer (CDmir), via OpenGameArt",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://opengameart.org/content/rabbit-0"
+    },
+    {
       "id": "kenney-furniture",
       "name": "Furniture Kit",
       "author": "Kenney (www.kenney.nl)",
@@ -24,6 +32,30 @@
       }
     },
     {
+      "id": "mujtaba-pigeon",
+      "name": "Low poly 3D Pigeon (rigged + animated)",
+      "author": "mujtaba-io, via OpenGameArt",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://opengameart.org/content/low-poly-3d-pigeon-model-rigged-animated-untextured"
+    },
+    {
+      "id": "quaternius-animals",
+      "name": "Animated animals (Deer, Stag, Shiba Inu)",
+      "author": "Quaternius (quaternius.com), via Poly Pizza",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://quaternius.com/packs/ultimateanimatedanimals.html"
+    },
+    {
+      "id": "quaternius-animals-vol2",
+      "name": "Animal Pack Vol.2 (Cat)",
+      "author": "Quaternius (quaternius.com), via OpenGameArt",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://opengameart.org/content/animated-animales-low-poly"
+    },
+    {
       "id": "quaternius-characters",
       "name": "Animated characters (Casual, Worker, Hoodie)",
       "author": "Quaternius (quaternius.com), via Poly Pizza",
@@ -33,6 +65,19 @@
     }
   ],
   "assets": [
+    {
+      "id": "cdmir-rabbit/rabbit",
+      "pack": "cdmir-rabbit",
+      "sourceBytes": 237960,
+      "lods": [
+        {
+          "file": "cdmir-rabbit/rabbit.glb",
+          "distance": 0,
+          "bytes": 143964,
+          "triangles": 1700
+        }
+      ]
+    },
     {
       "id": "kenney-furniture/bookcase-closed",
       "pack": "kenney-furniture",
@@ -369,6 +414,71 @@
           "distance": 30,
           "bytes": 7436,
           "triangles": 184
+        }
+      ]
+    },
+    {
+      "id": "mujtaba-pigeon/pigeon",
+      "pack": "mujtaba-pigeon",
+      "sourceBytes": 62204,
+      "lods": [
+        {
+          "file": "mujtaba-pigeon/pigeon.glb",
+          "distance": 0,
+          "bytes": 34148,
+          "triangles": 1010
+        }
+      ]
+    },
+    {
+      "id": "quaternius-animals-vol2/cat",
+      "pack": "quaternius-animals-vol2",
+      "sourceBytes": 65428,
+      "lods": [
+        {
+          "file": "quaternius-animals-vol2/cat.glb",
+          "distance": 0,
+          "bytes": 65384,
+          "triangles": 807
+        }
+      ]
+    },
+    {
+      "id": "quaternius-animals/deer",
+      "pack": "quaternius-animals",
+      "sourceBytes": 1007564,
+      "lods": [
+        {
+          "file": "quaternius-animals/deer.glb",
+          "distance": 0,
+          "bytes": 184128,
+          "triangles": 2096
+        }
+      ]
+    },
+    {
+      "id": "quaternius-animals/shiba-inu",
+      "pack": "quaternius-animals",
+      "sourceBytes": 851196,
+      "lods": [
+        {
+          "file": "quaternius-animals/shiba-inu.glb",
+          "distance": 0,
+          "bytes": 167076,
+          "triangles": 1950
+        }
+      ]
+    },
+    {
+      "id": "quaternius-animals/stag",
+      "pack": "quaternius-animals",
+      "sourceBytes": 1044172,
+      "lods": [
+        {
+          "file": "quaternius-animals/stag.glb",
+          "distance": 0,
+          "bytes": 214384,
+          "triangles": 3667
         }
       ]
     },
