@@ -1,0 +1,7 @@
+import{h as e,n as t}from"./overlay-stage-yz2ITXas.js";function n(n){let r=document.createElement(`div`);r.className=n.danger?`dzo-confirm dzo-confirm--danger`:`dzo-confirm`,r.setAttribute(`role`,`alertdialog`),r.setAttribute(`aria-label`,n.title),n.host.appendChild(r);let i=n.focusYes??!1,a=!1,o=e=>{a||(a=!0,r.remove(),n.onAnswer(e))},s=()=>{r.innerHTML=`<div class="dzo-panel dzo-confirm-box">
+<div class="dzo-confirm-icon">${e(n.icon??`warning`,n.danger?32:34)}</div>
+<div class="dzo-confirm-title">${n.title}</div>
+<div class="dzo-confirm-body">${n.body}</div>
+<div class="dzo-sep"></div>
+<div class="dzo-confirm-foot"><button type="button" class="dzo-btn dzo-btn--sec${i?``:` dzo-btn--focus`}" data-answer="no">${n.no??`ANULUJ`} ${t(`ESC`)}</button><button type="button" class="dzo-btn ${n.danger?`dzo-btn--danger`:`dzo-btn--pri`}${i?` dzo-btn--focus`:``}" data-answer="yes">${n.yes} ${t(`ENTER`,!0)}</button></div>
+</div>`,r.querySelector(`.dzo-btn--focus`)?.focus({preventScroll:!0})};return r.addEventListener(`click`,e=>{let t=e.target.closest(`[data-answer]`)?.dataset.answer;t&&o(t===`yes`)}),s(),{onKey(e){if(a)return!1;let t=e.code;if(t===`Escape`)o(!1);else if(t===`Enter`||t===`NumpadEnter`)o(!0);else if(t===`Space`)o(i);else if(t===`ArrowLeft`||t===`ArrowRight`||t===`Tab`)i=!i,s();else return!1;return!0},dispose(){a=!0,r.remove()}}}export{n as t};
