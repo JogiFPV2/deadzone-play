@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="index, follow" />
+    <title>Polityka prywatności — Deadzone</title>
+    <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #0e1113;
+        --panel: #15191c;
+        --border: #2c3337;
+        --text: #e4e6e3;
+        --muted: #9aa3a7;
+        --accent: #e0a23a;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font:
+          16px/1.6 system-ui,
+          -apple-system,
+          'Segoe UI',
+          Roboto,
+          sans-serif;
+      }
+      main {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 48px 24px 64px;
+      }
+      header {
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 32px;
+        padding-bottom: 16px;
+      }
+      .brand {
+        color: var(--accent);
+        font-weight: 700;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        font-size: 13px;
+      }
+      h1 {
+        margin: 8px 0 4px;
+        font-size: 30px;
+        line-height: 1.25;
+      }
+      h2 {
+        margin: 36px 0 8px;
+        font-size: 19px;
+        color: var(--accent);
+      }
+      p,
+      li {
+        color: var(--text);
+      }
+      .muted {
+        color: var(--muted);
+        font-size: 14px;
+      }
+      ul {
+        padding-left: 22px;
+      }
+      li {
+        margin: 6px 0;
+      }
+      code {
+        font-family: ui-monospace, 'JetBrains Mono', monospace;
+        font-size: 0.92em;
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        padding: 1px 5px;
+      }
+      .box {
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-left: 3px solid var(--accent);
+        border-radius: 6px;
+        padding: 12px 16px;
+        margin: 16px 0;
+      }
+      a {
+        color: var(--accent);
+      }
+      footer {
+        margin-top: 48px;
+        padding-top: 16px;
+        border-top: 1px solid var(--border);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div class="brand">Deadzone</div>
+        <h1>Polityka prywatności</h1>
+        <p class="muted">Obowiązuje od 4 października 2026 r.</p>
+      </header>
+
+      <p>
+        Ta strona wyjaśnia, jakie dane zbiera gra Deadzone, po co, gdzie je przechowujemy i jakie
+        masz prawa. Grę można uruchomić bez konta. Wtedy postęp zostaje tylko w Twojej przeglądarce
+        i nie wysyłamy go nigdzie.
+      </p>
+
+      <h2>1. Administrator danych</h2>
+      <p>
+        Administratorem danych osobowych jest Paweł Rosol, twórca gry Deadzone. W sprawach
+        dotyczących danych napisz na adres:
+        <a href="mailto:pawelrosol@gmail.com">pawelrosol@gmail.com</a>.
+      </p>
+
+      <h2>2. Jakie dane zbieramy</h2>
+      <p>Tylko gdy zakładasz konto i grasz online:</p>
+      <ul>
+        <li>
+          <strong>Dane konta:</strong> adres e-mail albo identyfikator konta Google, jeśli logujesz
+          się przez Google, oraz techniczne dane logowania (np. data rejestracji).
+        </li>
+        <li>
+          <strong>Zapisy gry i dane postaci:</strong> imię i wygląd postaci, ustawienia świata,
+          zapis stanu gry, liczba przeżytych dni, ostatnia lokacja w grze, daty gry i śmierci.
+        </li>
+        <li>
+          <strong>Ustawienia gracza:</strong> np. sterowanie, grafika, dźwięk i układ interfejsu.
+        </li>
+        <li>
+          <strong>Adres IP:</strong> serwer używa go do limitów żądań, które chronią przed
+          nadużyciami. W tym celu IP jest trzymane tylko w pamięci serwera przez kilka minut. Może
+          też trafić na krótko do technicznych logów serwera.
+        </li>
+        <li>
+          <strong>Raporty błędów:</strong> jeśli zostanie włączone zbieranie błędów (np. Sentry),
+          wysyłamy techniczne informacje o awarii gry lub serwera, bez treści zapisów gry.
+        </li>
+      </ul>
+      <p>
+        Przy logowaniu może działać zabezpieczenie przed botami (CAPTCHA Cloudflare Turnstile),
+        które sprawdza, czy logujesz się Ty, a nie skrypt.
+      </p>
+
+      <h2>3. Cel i podstawa prawna</h2>
+      <p>
+        Dane przetwarzamy, żeby świadczyć usługę, o którą prosisz: prowadzić Twoje konto,
+        przechowywać zapisy i ustawienia oraz pozwolić Ci grać na różnych urządzeniach. Podstawą
+        jest wykonanie umowy, czyli art. 6 ust. 1 lit. b RODO. Ochrona przed nadużyciami (limity
+        żądań, CAPTCHA) i ewentualne raporty błędów opierają się na naszym prawnie uzasadnionym
+        interesie, czyli bezpieczeństwie i działaniu gry (art. 6 ust. 1 lit. f RODO).
+      </p>
+
+      <h2>4. Gdzie przechowujemy dane</h2>
+      <p>
+        Konta, zapisy i ustawienia trzymamy w usłudze Supabase w regionie Unii Europejskiej. Sama
+        gra jest serwowana przez GitHub Pages. Logowanie przez Google obsługuje Google. Te firmy
+        przetwarzają dane w naszym imieniu, tylko w zakresie potrzebnym do działania gry.
+      </p>
+
+      <h2>5. Jak długo</h2>
+      <ul>
+        <li>Dane konta, postaci, zapisy i ustawienia: dopóki masz konto.</li>
+        <li>
+          Po śmierci postaci (permadeath) jej zapis jest usuwany. Zostaje tylko nagrobek: imię,
+          liczba przeżytych dni i data śmierci. Możesz go usunąć w każdej chwili.
+        </li>
+        <li>
+          Po usunięciu konta kasujemy wszystkie jego dane od razu. Mogą jeszcze przez krótki czas
+          zostać w kopiach zapasowych dostawcy, zanim te kopie wygasną.
+        </li>
+        <li>Adresy IP do limitów: kilka minut.</li>
+      </ul>
+
+      <h2>6. Twoje prawa</h2>
+      <ul>
+        <li>
+          <strong>Dostęp do danych:</strong> przycisk eksportu danych w grze (zakładka Konto)
+          pobiera plik ze wszystkimi Twoimi danymi (<code>GET /v1/me/export</code>).
+        </li>
+        <li>
+          <strong>Usunięcie:</strong> w grze możesz usunąć pojedynczą postać albo całe konto razem
+          ze wszystkimi danymi.
+        </li>
+        <li>
+          <strong>Sprostowanie:</strong> ustawienia zmienisz w grze. O poprawienie innych danych
+          poproś pod adresem pawelrosol@gmail.com.
+        </li>
+        <li>
+          <strong>Ograniczenie, sprzeciw, przenoszenie:</strong> skontaktuj się z nami. Eksport
+          danych jest w formacie JSON.
+        </li>
+        <li>
+          <strong>Skarga:</strong> masz prawo złożyć skargę do Prezesa Urzędu Ochrony Danych
+          Osobowych (PUODO), ul. Stawki 2, 00-193 Warszawa,
+          <a href="https://uodo.gov.pl" rel="noopener">uodo.gov.pl</a>.
+        </li>
+      </ul>
+
+      <h2>7. Czego nie robimy</h2>
+      <div class="box">
+        Nie sprzedajemy danych. Nie wyświetlamy reklam i nie używamy narzędzi śledzenia reklamowego
+        ani profilowania.
+      </div>
+
+      <h2>8. Pliki cookie i pamięć przeglądarki</h2>
+      <p>
+        Gra nie używa cookies reklamowych ani analitycznych. W pamięci przeglądarki
+        (<code>localStorage</code>) trzymamy tylko to, co potrzebne do działania: sesję logowania,
+        ustawienia gry i lokalne zapisy, gdy grasz offline. Możesz to wyczyścić w ustawieniach
+        przeglądarki, ale stracisz wtedy lokalny postęp i zostaniesz wylogowany.
+      </p>
+
+      <h2>9. Zmiany</h2>
+      <p>
+        Jeśli zmienimy tę politykę, zaktualizujemy datę na górze strony. O istotnych zmianach
+        poinformujemy w grze.
+      </p>
+
+      <footer class="muted">
+        Deadzone · Polityka prywatności · 4 października 2026 ·
+        <a href="../">Wróć do gry</a>
+      </footer>
+    </main>
+  </body>
+</html>
