@@ -1,7 +1,8 @@
 # Dane OpenStreetMap (Stalowa Wola)
 
-`stw-okulickiego.deadzone-osm-1.json`: wycinek 1,5 × 1,5 km (z marginesem 128 m) wokół
-ul. Okulickiego z mapy OSM Stalowej Woli w formacie `deadzone-osm-1`
+`stw-okulickiego.deadzone-osm-1.json`: wycinek wokół ul. Okulickiego z mapy OSM Stalowej Woli
+w formacie `deadzone-osm-1`, w surowym układzie OSM: obejmuje okno gry 1,5 × 1,5 km obrócone o
+27° (generator obraca dane na siatkę ulic) plus margines 128 m
 (`pnpm --filter @deadzone/map osm:crop <stw-map.json> okulickiego <plik>`).
 
 © współtwórcy OpenStreetMap. Dane są dostępne na licencji Open Database License (ODbL) 1.0:
