@@ -1,0 +1,1 @@
+var e=52428800,t=`DZSV`,n=8192,r=[`autosave`,`sleep`,`exit`,`manual`,`death`],i=2e4,a=[`base:marker-food`,`base:marker-danger`,`base:marker-zombies`,`base:marker-loot`,`base:marker-base`,`base:marker-car`,`base:marker-water`,`base:marker-note`],o=[`red`,`yellow`,`green`,`blue`,`white`];export{e as a,a as i,n,i as o,t as r,o as s,r as t};
