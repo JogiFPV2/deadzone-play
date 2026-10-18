@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "material": "deadzone-pbr",
+  "layers": [
+    {
+      "index": 0,
+      "id": "asfalt",
+      "name": "asfalt",
+      "source": "ambientCG Asphalt031 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Asphalt031",
+      "tileMeters": 3.0,
+      "tint": "natural",
+      "meanLinear": [0.1375, 0.1375, 0.1374],
+      "meanRoughness": 0.881
+    },
+    {
+      "index": 1,
+      "id": "plyty",
+      "name": "chodnik z płyt 50×50",
+      "source": "ambientCG PavingStones136 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=PavingStones136",
+      "tileMeters": 2.0,
+      "tint": "natural",
+      "meanLinear": [0.3084, 0.2901, 0.2335],
+      "meanRoughness": 0.85
+    },
+    {
+      "index": 2,
+      "id": "kostka",
+      "name": "kostka betonowa",
+      "source": "ambientCG PavingStones128 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=PavingStones128",
+      "tileMeters": 1.2,
+      "tint": "natural",
+      "meanLinear": [0.292, 0.2781, 0.2438],
+      "meanRoughness": 0.858
+    },
+    {
+      "index": 3,
+      "id": "trawa",
+      "name": "trawa",
+      "source": "ambientCG Grass004 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Grass004",
+      "tileMeters": 2.0,
+      "tint": "natural",
+      "meanLinear": [0.0961, 0.1216, 0.0267],
+      "meanRoughness": 0.853
+    },
+    {
+      "index": 4,
+      "id": "ziemia",
+      "name": "ziemia / klepisko",
+      "source": "ambientCG Ground037 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Ground037",
+      "tileMeters": 3.0,
+      "tint": "natural",
+      "meanLinear": [0.2587, 0.2463, 0.1316],
+      "meanRoughness": 0.866
+    },
+    {
+      "index": 5,
+      "id": "beton",
+      "name": "beton z wielkiej płyty",
+      "source": "ambientCG Concrete034 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Concrete034",
+      "tileMeters": 3.0,
+      "tint": "tint",
+      "meanLinear": [0.4488, 0.4488, 0.4488],
+      "meanRoughness": 0.831
+    },
+    {
+      "index": 6,
+      "id": "tynk",
+      "name": "tynk jasny",
+      "source": "ambientCG Plaster001 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Plaster001",
+      "tileMeters": 2.0,
+      "tint": "tint",
+      "meanLinear": [0.6449, 0.6387, 0.633],
+      "meanRoughness": 0.937
+    },
+    {
+      "index": 7,
+      "id": "cegla",
+      "name": "cegła",
+      "source": "ambientCG Bricks085 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Bricks085",
+      "tileMeters": 1.5,
+      "tint": "natural",
+      "meanLinear": [0.3249, 0.2222, 0.1692],
+      "meanRoughness": 0.874
+    },
+    {
+      "index": 8,
+      "id": "papa",
+      "name": "papa",
+      "source": "ambientCG Asphalt033 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Asphalt033",
+      "tileMeters": 2.0,
+      "tint": "natural",
+      "meanLinear": [0.0819, 0.0762, 0.0633],
+      "meanRoughness": 0.949
+    },
+    {
+      "index": 9,
+      "id": "blacha",
+      "name": "blacha trapezowa",
+      "source": "ambientCG CorrugatedSteel005 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=CorrugatedSteel005",
+      "tileMeters": 2.0,
+      "tint": "tint",
+      "meanLinear": [0.4775, 0.4802, 0.4848],
+      "meanRoughness": 0.584
+    },
+    {
+      "index": 10,
+      "id": "drewno",
+      "name": "drewno (deski)",
+      "source": "ambientCG Planks021 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Planks021",
+      "tileMeters": 1.5,
+      "tint": "natural",
+      "meanLinear": [0.3, 0.2534, 0.1695],
+      "meanRoughness": 0.904
+    },
+    {
+      "index": 11,
+      "id": "szklo",
+      "name": "szkło okienne",
+      "source": "proceduralny, własny (CC0)",
+      "url": null,
+      "tileMeters": 1.0,
+      "tint": "tint",
+      "meanLinear": [0.0221, 0.0332, 0.0398],
+      "meanRoughness": 0.077
+    },
+    {
+      "index": 12,
+      "id": "gladki",
+      "name": "gładki (lakier, plastik, metal malowany)",
+      "source": "proceduralny, własny (CC0)",
+      "url": null,
+      "tileMeters": 2.0,
+      "tint": "tint",
+      "meanLinear": [0.6045, 0.6045, 0.6045],
+      "meanRoughness": 0.42
+    }
+  ]
+}
