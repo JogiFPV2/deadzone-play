@@ -10,6 +10,14 @@
       "source": "https://opengameart.org/content/rabbit-0"
     },
     {
+      "id": "deadzone-furniture",
+      "name": "Meble Deadzone (modele własne, skala 1:1)",
+      "author": "Deadzone (Designer)",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://github.com/JogiFPV2/deadzone-web"
+    },
+    {
       "id": "kenney-furniture",
       "name": "Furniture Kit",
       "author": "Kenney (www.kenney.nl)",
@@ -75,6 +83,84 @@
           "distance": 0,
           "bytes": 143964,
           "triangles": 1700
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/bed",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 30304,
+      "lods": [
+        {
+          "file": "deadzone-furniture/bed.glb",
+          "distance": 0,
+          "bytes": 6940,
+          "triangles": 270
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/desk",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 16696,
+      "lods": [
+        {
+          "file": "deadzone-furniture/desk.glb",
+          "distance": 0,
+          "bytes": 4876,
+          "triangles": 144
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/double-bed",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 21900,
+      "lods": [
+        {
+          "file": "deadzone-furniture/double-bed.glb",
+          "distance": 0,
+          "bytes": 5868,
+          "triangles": 192
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/metal-shelf",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 44808,
+      "lods": [
+        {
+          "file": "deadzone-furniture/metal-shelf.glb",
+          "distance": 0,
+          "bytes": 8352,
+          "triangles": 404
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/shop-counter",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 13260,
+      "lods": [
+        {
+          "file": "deadzone-furniture/shop-counter.glb",
+          "distance": 0,
+          "bytes": 4280,
+          "triangles": 112
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/sofa",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 17364,
+      "lods": [
+        {
+          "file": "deadzone-furniture/sofa.glb",
+          "distance": 0,
+          "bytes": 5280,
+          "triangles": 150
         }
       ]
     },

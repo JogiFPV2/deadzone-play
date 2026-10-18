@@ -1,4 +1,4 @@
-import{Ct as e,Jn as t,g as n,wt as r}from"./three.core-DfOD67Pl.js";import{C as i,S as a,t as o,y as s}from"./player-view-ByNJUuXR.js";var c={value:{toon:0,step:1,soft:1.25}},l={value:{px:2,resX:1280,resY:720}},u={character:1182987,vehicle:9076080},d=`
+import{Ct as e,Jn as t,g as n,wt as r}from"./three.core-DfOD67Pl.js";import{C as i,S as a,t as o,y as s}from"./player-view-DauXX3Aj.js";var c={value:{toon:0,step:1,soft:1.25}},l={value:{px:2,resX:1280,resY:720}},u={character:1182987,vehicle:9076080},d=`
 #ifndef DZ_STYLE_NO_RAMP
 if ( dzStyle.toon > 0.5 ) {
   // 3-band ramp on the diffuse irradiance (albedo divided out, palette and ACES untouched):
