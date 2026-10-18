@@ -95,6 +95,45 @@
       ]
     },
     {
+      "id": "deadzone-furniture/bathroom-cabinet",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 6956,
+      "lods": [
+        {
+          "file": "deadzone-furniture/bathroom-cabinet.glb",
+          "distance": 0,
+          "bytes": 3424,
+          "triangles": 56
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/bathroom-sink",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 26384,
+      "lods": [
+        {
+          "file": "deadzone-furniture/bathroom-sink.glb",
+          "distance": 0,
+          "bytes": 6092,
+          "triangles": 236
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/bathtub",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 29244,
+      "lods": [
+        {
+          "file": "deadzone-furniture/bathtub.glb",
+          "distance": 0,
+          "bytes": 6432,
+          "triangles": 260
+        }
+      ]
+    },
+    {
       "id": "deadzone-furniture/bed",
       "pack": "deadzone-furniture",
       "sourceBytes": 30304,
@@ -134,6 +173,45 @@
       ]
     },
     {
+      "id": "deadzone-furniture/fridge-freezer",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 11696,
+      "lods": [
+        {
+          "file": "deadzone-furniture/fridge-freezer.glb",
+          "distance": 0,
+          "bytes": 4156,
+          "triangles": 100
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/gas-stove",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 78620,
+      "lods": [
+        {
+          "file": "deadzone-furniture/gas-stove.glb",
+          "distance": 0,
+          "bytes": 14168,
+          "triangles": 720
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/kitchen-sink",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 35880,
+      "lods": [
+        {
+          "file": "deadzone-furniture/kitchen-sink.glb",
+          "distance": 0,
+          "bytes": 7688,
+          "triangles": 324
+        }
+      ]
+    },
+    {
       "id": "deadzone-furniture/metal-shelf",
       "pack": "deadzone-furniture",
       "sourceBytes": 44808,
@@ -143,6 +221,45 @@
           "distance": 0,
           "bytes": 8352,
           "triangles": 404
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/oven",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 53560,
+      "lods": [
+        {
+          "file": "deadzone-furniture/oven.glb",
+          "distance": 0,
+          "bytes": 9416,
+          "triangles": 488
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/radio-set",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 58820,
+      "lods": [
+        {
+          "file": "deadzone-furniture/radio-set.glb",
+          "distance": 0,
+          "bytes": 9992,
+          "triangles": 534
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/range",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 87936,
+      "lods": [
+        {
+          "file": "deadzone-furniture/range.glb",
+          "distance": 0,
+          "bytes": 15544,
+          "triangles": 806
         }
       ]
     },
@@ -160,6 +277,19 @@
       ]
     },
     {
+      "id": "deadzone-furniture/shower",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 100880,
+      "lods": [
+        {
+          "file": "deadzone-furniture/shower.glb",
+          "distance": 0,
+          "bytes": 17980,
+          "triangles": 926
+        }
+      ]
+    },
+    {
       "id": "deadzone-furniture/sofa",
       "pack": "deadzone-furniture",
       "sourceBytes": 17364,
@@ -169,6 +299,32 @@
           "distance": 0,
           "bytes": 5280,
           "triangles": 150
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/tv-stand",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 13816,
+      "lods": [
+        {
+          "file": "deadzone-furniture/tv-stand.glb",
+          "distance": 0,
+          "bytes": 4512,
+          "triangles": 120
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/vcr",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 25140,
+      "lods": [
+        {
+          "file": "deadzone-furniture/vcr.glb",
+          "distance": 0,
+          "bytes": 6356,
+          "triangles": 222
         }
       ]
     },
