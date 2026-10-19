@@ -344,13 +344,13 @@
     {
       "id": "deadzone-furniture/shower",
       "pack": "deadzone-furniture",
-      "sourceBytes": 100880,
+      "sourceBytes": 24908,
       "lods": [
         {
           "file": "deadzone-furniture/shower.glb",
           "distance": 0,
-          "bytes": 17980,
-          "triangles": 926
+          "bytes": 5840,
+          "triangles": 220
         }
       ]
     },
