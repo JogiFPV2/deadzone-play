@@ -12,7 +12,7 @@
     {
       "id": "deadzone-furniture",
       "name": "Meble Deadzone (modele własne, skala 1:1)",
-      "author": "Deadzone (Designer)",
+      "author": "Deadzone (Designer); toaleta: Kenney Furniture Kit (przeskalowana)",
       "licence": "CC0-1.0",
       "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://github.com/JogiFPV2/deadzone-web"
@@ -95,6 +95,19 @@
       ]
     },
     {
+      "id": "deadzone-furniture/armchair",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 10884,
+      "lods": [
+        {
+          "file": "deadzone-furniture/armchair.glb",
+          "distance": 0,
+          "bytes": 4060,
+          "triangles": 90
+        }
+      ]
+    },
+    {
       "id": "deadzone-furniture/bathroom-cabinet",
       "pack": "deadzone-furniture",
       "sourceBytes": 6956,
@@ -147,6 +160,19 @@
       ]
     },
     {
+      "id": "deadzone-furniture/chair",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 10884,
+      "lods": [
+        {
+          "file": "deadzone-furniture/chair.glb",
+          "distance": 0,
+          "bytes": 3884,
+          "triangles": 90
+        }
+      ]
+    },
+    {
       "id": "deadzone-furniture/desk",
       "pack": "deadzone-furniture",
       "sourceBytes": 16696,
@@ -160,6 +186,19 @@
       ]
     },
     {
+      "id": "deadzone-furniture/desk-lamp",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 17808,
+      "lods": [
+        {
+          "file": "deadzone-furniture/desk-lamp.glb",
+          "distance": 0,
+          "bytes": 4864,
+          "triangles": 154
+        }
+      ]
+    },
+    {
       "id": "deadzone-furniture/double-bed",
       "pack": "deadzone-furniture",
       "sourceBytes": 21900,
@@ -169,6 +208,19 @@
           "distance": 0,
           "bytes": 5868,
           "triangles": 192
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/floor-lamp",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 19352,
+      "lods": [
+        {
+          "file": "deadzone-furniture/floor-lamp.glb",
+          "distance": 0,
+          "bytes": 4864,
+          "triangles": 168
         }
       ]
     },
@@ -208,6 +260,19 @@
           "distance": 0,
           "bytes": 7688,
           "triangles": 324
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/light-switch",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 3768,
+      "lods": [
+        {
+          "file": "deadzone-furniture/light-switch.glb",
+          "distance": 0,
+          "bytes": 2740,
+          "triangles": 24
         }
       ]
     },
@@ -299,6 +364,32 @@
           "distance": 0,
           "bytes": 5280,
           "triangles": 150
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/table",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 7840,
+      "lods": [
+        {
+          "file": "deadzone-furniture/table.glb",
+          "distance": 0,
+          "bytes": 3132,
+          "triangles": 62
+        }
+      ]
+    },
+    {
+      "id": "deadzone-furniture/toilet",
+      "pack": "deadzone-furniture",
+      "sourceBytes": 25712,
+      "lods": [
+        {
+          "file": "deadzone-furniture/toilet.glb",
+          "distance": 0,
+          "bytes": 5416,
+          "triangles": 230
         }
       ]
     },
@@ -608,6 +699,19 @@
       ]
     },
     {
+      "id": "kenney-furniture/chair",
+      "pack": "kenney-furniture",
+      "sourceBytes": 10756,
+      "lods": [
+        {
+          "file": "kenney-furniture/chair.glb",
+          "distance": 0,
+          "bytes": 5516,
+          "triangles": 170
+        }
+      ]
+    },
+    {
       "id": "kenney-furniture/fridge",
       "pack": "kenney-furniture",
       "sourceBytes": 20116,
@@ -656,6 +760,71 @@
           "distance": 0,
           "bytes": 15828,
           "triangles": 174
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/lamp-round-floor",
+      "pack": "kenney-furniture",
+      "sourceBytes": 6600,
+      "lods": [
+        {
+          "file": "kenney-furniture/lamp-round-floor.glb",
+          "distance": 0,
+          "bytes": 5564,
+          "triangles": 76
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/lamp-round-table",
+      "pack": "kenney-furniture",
+      "sourceBytes": 6604,
+      "lods": [
+        {
+          "file": "kenney-furniture/lamp-round-table.glb",
+          "distance": 0,
+          "bytes": 5588,
+          "triangles": 76
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/lamp-square-ceiling",
+      "pack": "kenney-furniture",
+      "sourceBytes": 5628,
+      "lods": [
+        {
+          "file": "kenney-furniture/lamp-square-ceiling.glb",
+          "distance": 0,
+          "bytes": 5128,
+          "triangles": 60
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/table",
+      "pack": "kenney-furniture",
+      "sourceBytes": 8196,
+      "lods": [
+        {
+          "file": "kenney-furniture/table.glb",
+          "distance": 0,
+          "bytes": 4664,
+          "triangles": 120
+        }
+      ]
+    },
+    {
+      "id": "kenney-furniture/toilet",
+      "pack": "kenney-furniture",
+      "sourceBytes": 18112,
+      "lods": [
+        {
+          "file": "kenney-furniture/toilet.glb",
+          "distance": 0,
+          "bytes": 12732,
+          "triangles": 230
         }
       ]
     },

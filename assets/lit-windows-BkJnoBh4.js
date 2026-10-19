@@ -1,0 +1,1 @@
+var e=(e,t,n,r)=>`${e},${t},${n},${r}`,t=e=>e>=1140||e<360;function n(t){let n=new Set;for(let r of t){let t=Number.isInteger(r.y)&&!Number.isInteger(r.x);n.add(t?e(Math.floor(r.x),r.y,r.z,`N`):e(r.x,Math.floor(r.y),r.z,`W`))}return n}function r(e,t){let n=new Set;for(let r of e){let[e,i,a,o]=r.split(`,`);Number(a)===t&&n.add(`${e},${i},${o}`)}return n}export{r as n,n as r,t};

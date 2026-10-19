@@ -1,0 +1,1 @@
+import{At as e}from"./three.core-Blf5YF3L.js";function t(t){return new e({color:t,roughness:.92,metalness:0,flatShading:!0})}export{t};

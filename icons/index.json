@@ -244,5 +244,13 @@
   "base:bathtub": "bathtub.png",
   "base:shower": "shower.png",
   "base:vcr": "vcr.png",
-  "base:radio-set": "radio-set.png"
+  "base:radio-set": "radio-set.png",
+  "base:chair": "chair.png",
+  "base:armchair": "armchair.png",
+  "base:light-switch": "light-switch.png",
+  "base:gas-stove": "gas-stove.png",
+  "base:table": "table.png",
+  "base:floor-lamp": "floor-lamp.png",
+  "base:desk-lamp": "desk-lamp.png",
+  "base:toilet": "toilet.png"
 }
