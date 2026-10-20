@@ -10,6 +10,14 @@
       "source": "https://opengameart.org/content/rabbit-0"
     },
     {
+      "id": "deadzone-char",
+      "name": "Postacie realistyczne Deadzone (styl real: ocalali, zombie)",
+      "author": "Quaternius (Universal Base Characters, Universal Animation Library 1+2), wyszczuplenie, ubrania i wygląd: Deadzone (Designer)",
+      "licence": "CC0-1.0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://quaternius.itch.io/universal-base-characters"
+    },
+    {
       "id": "deadzone-furniture",
       "name": "Meble Deadzone (modele własne, skala 1:1)",
       "author": "Deadzone (Designer); toaleta: Kenney Furniture Kit (przeskalowana)",
@@ -91,6 +99,84 @@
           "distance": 0,
           "bytes": 143964,
           "triangles": 1700
+        }
+      ]
+    },
+    {
+      "id": "deadzone-char/survivor-f",
+      "pack": "deadzone-char",
+      "sourceBytes": 534436,
+      "lods": [
+        {
+          "file": "deadzone-char/survivor-f.glb",
+          "distance": 0,
+          "bytes": 227428,
+          "triangles": 4200
+        }
+      ]
+    },
+    {
+      "id": "deadzone-char/survivor-m",
+      "pack": "deadzone-char",
+      "sourceBytes": 501796,
+      "lods": [
+        {
+          "file": "deadzone-char/survivor-m.glb",
+          "distance": 0,
+          "bytes": 220788,
+          "triangles": 4199
+        }
+      ]
+    },
+    {
+      "id": "deadzone-char/zombie-f-coat",
+      "pack": "deadzone-char",
+      "sourceBytes": 354768,
+      "lods": [
+        {
+          "file": "deadzone-char/zombie-f-coat.glb",
+          "distance": 0,
+          "bytes": 154212,
+          "triangles": 3800
+        }
+      ]
+    },
+    {
+      "id": "deadzone-char/zombie-f-shirt",
+      "pack": "deadzone-char",
+      "sourceBytes": 348552,
+      "lods": [
+        {
+          "file": "deadzone-char/zombie-f-shirt.glb",
+          "distance": 0,
+          "bytes": 152832,
+          "triangles": 3799
+        }
+      ]
+    },
+    {
+      "id": "deadzone-char/zombie-m-tracksuit",
+      "pack": "deadzone-char",
+      "sourceBytes": 316984,
+      "lods": [
+        {
+          "file": "deadzone-char/zombie-m-tracksuit.glb",
+          "distance": 0,
+          "bytes": 147792,
+          "triangles": 3800
+        }
+      ]
+    },
+    {
+      "id": "deadzone-char/zombie-m-worker",
+      "pack": "deadzone-char",
+      "sourceBytes": 318144,
+      "lods": [
+        {
+          "file": "deadzone-char/zombie-m-worker.glb",
+          "distance": 0,
+          "bytes": 147796,
+          "triangles": 3798
         }
       ]
     },
