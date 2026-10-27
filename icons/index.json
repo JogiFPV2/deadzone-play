@@ -252,5 +252,9 @@
   "base:table": "table.png",
   "base:floor-lamp": "floor-lamp.png",
   "base:desk-lamp": "desk-lamp.png",
-  "base:toilet": "toilet.png"
+  "base:toilet": "toilet.png",
+  "base:curtain": "curtain.png",
+  "base:jacket": "jacket.png",
+  "base:blanket": "blanket.png",
+  "base:tarp": "tarp.png"
 }
