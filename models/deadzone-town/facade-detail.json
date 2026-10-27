@@ -1,0 +1,118 @@
+{
+  "size": 2048,
+  "grid": 4,
+  "cells": [
+    {
+      "index": 0,
+      "id": "plaster",
+      "source": "ambientCG Plaster001 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Plaster001",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 1,
+      "id": "plaster-rough",
+      "source": "ambientCG Plaster003 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Plaster003",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 2,
+      "id": "panel",
+      "source": "ambientCG Concrete034 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Concrete034",
+      "tileMeters": 3.0
+    },
+    {
+      "index": 3,
+      "id": "brick",
+      "source": "ambientCG Bricks059 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Bricks059",
+      "tileMeters": 1.5
+    },
+    {
+      "index": 4,
+      "id": "brick-dark",
+      "source": "ambientCG Bricks066 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Bricks066",
+      "tileMeters": 1.5
+    },
+    {
+      "index": 5,
+      "id": "corrugated",
+      "source": "ambientCG CorrugatedSteel002 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=CorrugatedSteel002",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 6,
+      "id": "sheet",
+      "source": "ambientCG SheetMetal001 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=SheetMetal001",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 7,
+      "id": "metal-plates",
+      "source": "ambientCG MetalPlates006 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=MetalPlates006",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 8,
+      "id": "planks",
+      "source": "ambientCG Wood026 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Wood026",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 9,
+      "id": "concrete",
+      "source": "ambientCG Concrete031 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Concrete031",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 10,
+      "id": "tiles-plain",
+      "source": "ambientCG RoofingTiles006 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=RoofingTiles006",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 11,
+      "id": "tiles-s",
+      "source": "ambientCG RoofingTiles008 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=RoofingTiles008",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 12,
+      "id": "sheet-tile",
+      "source": "ambientCG SheetMetal004 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=SheetMetal004",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 13,
+      "id": "felt",
+      "source": "ambientCG Asphalt010 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Asphalt010",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 14,
+      "id": "shopfront",
+      "source": "ambientCG Tiles074 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Tiles074",
+      "tileMeters": 2.0
+    },
+    {
+      "index": 15,
+      "id": "grime",
+      "source": "ambientCG Concrete046 (CC0 1.0)",
+      "url": "https://ambientcg.com/view?id=Concrete046",
+      "tileMeters": 4.0
+    }
+  ]
+}
