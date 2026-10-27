@@ -1,0 +1,1 @@
+import{jt as e}from"./three.core-CA_PUE9s.js";function t(t){return new e({color:t,roughness:.92,metalness:0,flatShading:!0})}export{t};
